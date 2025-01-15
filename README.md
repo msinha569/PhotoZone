@@ -1,9 +1,8 @@
-Here’s a possible `README.md` for the project based on the interface visible in the screenshot:
 
----
-Visit - https://photo-zone.vercel.app/
 
 # PhotoZone - Unleash Your Creative Vision
+
+Visit - https://photo-zone.vercel.app/
 
 PhotoZone is a user-friendly web application designed to enhance and transform your photos with cutting-edge AI-powered tools. Whether you're looking to restore old images, remove or recolor objects, or generate creative fills, PhotoZone is your one-stop solution for all your photo editing needs.
 
